@@ -9,7 +9,7 @@ Group:		Graphical desktop/Other
 License:	GPL
 URL:		http://kde-look.org/content/show.php/?content=165154
 
-Source0:	%{theme}_%{version}.tar.gz
+Source0:	http://code.emka.web.id/demo/square-beam-kde/%{theme}_%{version}.tar.gz
 
 BuildArch:	noarch
 
