@@ -25,7 +25,7 @@ Icon designed by EepSetiawan
 
 
 %build
-chmod -R 0644 %{_builddir}/%{theme}/*
+chmod -R 0755 %{_builddir}/%{theme}/*
 
 %install
 %{__install} -d -m755 %{buildroot}%{_datadir}/icons/
