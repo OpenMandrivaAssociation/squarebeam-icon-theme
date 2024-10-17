@@ -7,7 +7,7 @@ Summary:	%{theme} icon theme
 Group:		Graphical desktop/Other
 
 License:	GPL
-URL:		http://kde-look.org/content/show.php/?content=165154
+URL:		https://kde-look.org/content/show.php/?content=165154
 
 Source0:	http://code.emka.web.id/demo/square-beam-kde/%{theme}_%{version}.tar.gz
 
